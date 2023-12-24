@@ -1,0 +1,1 @@
+const TestFunction = () => <h1>Este es un texto de prueba</h1>;
